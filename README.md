@@ -19,7 +19,7 @@ Neste projeto foi utilizado o conceito de **database first**, que consiste em cr
 
 ## Problemas Encontrados
 
-Na versão anterior deste projeto, encontrei dificuldades ao tentar relacionar as entidades desenvolvedores e skills. No entanto, adotei uma nova abordagem em minha versão mais recente, o que me permitiu planejar a estrutura do banco de dados de maneira mais eficaz e implementar a funcionalidade necessária.
+Na versão anterior deste projeto, encontrei dificuldades ao tentar relacionar as entidades desenvolvedores e skills. No entanto, adotei uma nova abordagem em minha versão mais recente, o que me permitiu planejar a estrutura do banco de dados de maneira mais eficaz e implementar a funcionalidade necessária e estou confiante de que essa nova abordagem permitirá que o projeto continue a crescer e evoluir de maneira constante até sua conclusão final.
 
 Cabe ressaltar que na versão anterior do projeto, o CRUD já estava implementado e funcionando corretamente.
 
