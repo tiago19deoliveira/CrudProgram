@@ -31,7 +31,7 @@ Cabe ressaltar que na versão anterior do projeto, o CRUD já estava implementad
 - [Link para o tutorial que utilizare para otimizar o desempenho da minha máquina com intuito de gerar mais produtividade em relação aos processos da ferramenta VisualStudio](https://youtu.be/h6rkNOreLyM)
 
 - [Link de referência para estudos dos processos de implementação que estou me baseando em parte do desenvolvimento](https://www.macoratti.net/14/04/mvc_crud.htm)
-- [Link para um dos guias de estudos em .NET que passei a utilizar nos meus estudos](https://www.macoratti.net/Artigos)
+- [Link para um dos guias em .NET que passei a utilizar nos meus estudos](https://www.macoratti.net/Artigos)
 
 - [Link para a documentação do .NET 7.0](https://docs.microsoft.com/pt-br/dotnet/core/whats-new/dotnet-core-7.0)
 - [Link para a documentação do SQL Server](https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15) 
